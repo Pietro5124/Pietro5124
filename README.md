@@ -3,7 +3,7 @@
      
   </div>
   <br />
-  
+- student at PUC-SP (computer science)
 - 🌱 I'm currently learning the C language among other languages
 - 💬📫  talk to me by email (pietro.tgiorgi@gmail.com)
 - 😄 Pronouns: He 
