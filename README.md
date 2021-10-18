@@ -3,10 +3,10 @@
      
   </div>
   <br />
-- student at PUC-SP (computer science)
-- 🌱 I'm currently learning the C language among other languages
-- 💬📫  talk to me by email (pietro.tgiorgi@gmail.com)
-- 😄 Pronouns: He 
+- 👨‍🎓 student at PUC-SP (computer science) <br />
+- 🌱 I'm currently learning the C language among other languages <br />
+- 💬📫  talk to me by email (pietro.tgiorgi@gmail.com) <br />
+- 😄 Pronouns: He  <br />
 
 <div align="center">
   <a href="https://github.com/Pietro5124">
