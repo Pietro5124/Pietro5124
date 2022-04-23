@@ -10,22 +10,20 @@
 
 <div align="center">
   <a href="https://github.com/Pietro5124">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pietro5124&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pietro5124&layout=compact&langs_count=7&theme=dark"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Pietro5124&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  
 </div>
 
   <h3>Languages and Tools:</h3>
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />](https://www.google.com/search?&q=Visual+Studio+Code)
-  [<img align="left" alt="Bash" width="26px" src="https://raw.githubusercontent.com/odb/official-bash-logo/master/assets/Logos/Icons/SVG/128x128.svg" />](https://www.google.com/search?&q=Bash)
-  [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />](https://www.google.com/search?&q=command+line+interface)
-[<img align="left" alt="C" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/c.svg" />](https://www.google.com/search?&q=c+programming+language)
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/cpp.svg" />](https://www.google.com/search?&q=c+programming+language)
-[<img align="left" alt="Linux" width="26px" src="https://image.flaticon.com/icons/svg/226/226772.svg" />](https://www.google.com/search?&q=Linux)
-  [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/master/icons/git.svg" />](https://www.google.com/search?&q=Git)
+
+![Visual_Studio_Code](https://user-images.githubusercontent.com/88438392/164916697-df82f5c9-20ec-4dc2-b701-e7b6b84be4cd.png)
+![Logo_linguagem C ](https://user-images.githubusercontent.com/88438392/164917000-229a6c92-0bbc-456b-9b32-84aa4272288f.png)
+![logo-java](https://user-images.githubusercontent.com/88438392/164917175-9fa5dba3-b45f-4852-89d3-e266a950fe63.png)
+![Logo-Markdown](https://user-images.githubusercontent.com/88438392/164920822-50a8b950-3858-4325-933c-fab8d8f1d7ab.png)
+![Logo-Git](https://user-images.githubusercontent.com/88438392/164928740-0340682a-bb9e-47c6-ae63-cf859366d24e.png)
 
 
-[<img align="left" alt="Windows" width="26px" src="https://image.flaticon.com/icons/svg/882/882702.svg" />](https://www.google.com/search?&q=Windows)
 
 <br />
 <br />
