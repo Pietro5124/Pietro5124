@@ -7,12 +7,17 @@
 - 💬📫  talk to me by email (pietro.tgiorgi@gmail.com) <br />
 
 
-<div align="center">
-  </br>
-  <a href="https://github.com/Pietro5124">
-  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Pietro5124&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  
-</div>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const pietrp = {
+  pronouns: "he" | "his",
+  code: [Javascript, Typescript, HTML, CSS, Ruby, Python, Java, C],
+  tools: [React, Node, Styled-Components, Docker],
+  architecture: ["microservices", "design system pattern"],
+
+}
+```
 
   <h3>Languages and Tools:</h3>
 
@@ -28,9 +33,7 @@
 <br />
 <br />
   
-  <div align="center">
-
-</div>
+ 
 
 
   
