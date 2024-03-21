@@ -4,14 +4,13 @@
   </div>
   <br />
 - 👨‍🎓 student at PUC-SP (computer science) <br />
-- 🌱 I'm currently learning the C language among other languages <br />
 - 💬📫  talk to me by email (pietro.tgiorgi@gmail.com) <br />
 
 
 <div align="center">
   </br>
   <a href="https://github.com/Pietro5124">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Pietro5124&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api?username=Pietro5124&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   
 </div>
 
